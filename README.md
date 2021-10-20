@@ -1,2 +1,2 @@
 # coursera
-its all about the web develpmoent course from coursera 
+its all about the web development course from coursera 
